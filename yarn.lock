@@ -6449,7 +6449,7 @@ gulp-util@^3.0.1:
     lodash._reescape "^3.0.0"
     lodash._reevaluate "^3.0.0"
     lodash._reinterpolate "^3.0.0"
-    lodash.template "^3.0.0"
+    lodash.template "^4.5.0"
     minimist "^1.1.0"
     multipipe "^0.1.2"
     object-assign "^3.0.0"
@@ -8258,9 +8258,9 @@ lodash.template@^3.0.0:
     lodash.restparam "^3.0.0"
     lodash.templatesettings "^3.0.0"
 
-lodash.template@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/lodash.template/-/lodash.template-4.4.0.tgz#e73a0385c8355591746e020b99679c690e68fba0"
+lodash.template@^4.5.0:
+ version "4.5.0"
+ resolved "https://registry.yarnpkg.com/lodash.template/-/lodash.template-4.5.0.tgz#f976195cf3f347d0d5f52483569fe8031ccce8ab"
   dependencies:
     lodash._reinterpolate "~3.0.0"
     lodash.templatesettings "^4.0.0"
